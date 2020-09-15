@@ -1,3 +1,4 @@
+# Deploy to pages.
 name: Build and Deploy
 on: 
   push:
